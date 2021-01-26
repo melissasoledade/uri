@@ -1,2 +1,2 @@
 # uri
-uri online judge coding
+uri online judge problem solving
